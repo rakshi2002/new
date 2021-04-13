@@ -1,0 +1,16 @@
+From a5afebf6a3b91ca3557c1d302cb1cc15d5e8ba44 Mon Sep 17 00:00:00 2001
+From: rakshi2002 <rakshithakhm@gmail.com>
+Date: Tue, 13 Apr 2021 14:49:22 +0530
+Subject: [PATCH 10/10] commit-7
+
+---
+ g1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 g1.txt
+
+diff --git a/g1.txt b/g1.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.31.1.windows.1
+
